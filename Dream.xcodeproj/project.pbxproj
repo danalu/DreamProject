@@ -21,8 +21,6 @@
 		37DF9FE818F69E4D006A23C7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37DF9FCA18F69E4D006A23C7 /* UIKit.framework */; };
 		37DF9FF018F69E4D006A23C7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 37DF9FEE18F69E4D006A23C7 /* InfoPlist.strings */; };
 		37DF9FF218F69E4D006A23C7 /* DreamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 37DF9FF118F69E4D006A23C7 /* DreamTests.m */; };
-		55F443BC19050628008A2DD6 /* GHAAAAA.m in Sources */ = {isa = PBXBuildFile; fileRef = 55F443BB19050628008A2DD6 /* GHAAAAA.m */; };
-		55F443BF190509B1008A2DD6 /* GHBBB.m in Sources */ = {isa = PBXBuildFile; fileRef = 55F443BE190509B1008A2DD6 /* GHBBB.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,10 +53,6 @@
 		37DF9FED18F69E4D006A23C7 /* DreamTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DreamTests-Info.plist"; sourceTree = "<group>"; };
 		37DF9FEF18F69E4D006A23C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		37DF9FF118F69E4D006A23C7 /* DreamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DreamTests.m; sourceTree = "<group>"; };
-		55F443BA19050628008A2DD6 /* GHAAAAA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHAAAAA.h; sourceTree = "<group>"; };
-		55F443BB19050628008A2DD6 /* GHAAAAA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHAAAAA.m; sourceTree = "<group>"; };
-		55F443BD190509B1008A2DD6 /* GHBBB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHBBB.h; sourceTree = "<group>"; };
-		55F443BE190509B1008A2DD6 /* GHBBB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHBBB.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,10 +119,6 @@
 				37DF9FDC18F69E4D006A23C7 /* GHViewController.m */,
 				37DF9FDE18F69E4D006A23C7 /* Images.xcassets */,
 				37DF9FCD18F69E4D006A23C7 /* Supporting Files */,
-				55F443BA19050628008A2DD6 /* GHAAAAA.h */,
-				55F443BB19050628008A2DD6 /* GHAAAAA.m */,
-				55F443BD190509B1008A2DD6 /* GHBBB.h */,
-				55F443BE190509B1008A2DD6 /* GHBBB.m */,
 			);
 			path = Dream;
 			sourceTree = "<group>";
@@ -263,8 +253,6 @@
 				37DF9FD318F69E4D006A23C7 /* main.m in Sources */,
 				37DF9FDD18F69E4D006A23C7 /* GHViewController.m in Sources */,
 				37DF9FD718F69E4D006A23C7 /* GHAppDelegate.m in Sources */,
-				55F443BC19050628008A2DD6 /* GHAAAAA.m in Sources */,
-				55F443BF190509B1008A2DD6 /* GHBBB.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
